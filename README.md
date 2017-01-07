@@ -56,9 +56,9 @@ Markdown 支持两种形式的链接语法： 行内式和参考式两种形式�
 
 下面这三种链接的定义都是相同：
 
->[foo]: http://example.com/  "Optional Title Here"
->[foo]: http://example.com/  'Optional Title Here'
->[foo]: http://example.com/  (Optional Title Here)
+> [foo]: http://example.com/  "Optional Title Here"
+> [foo]: http://example.com/  'Optional Title Here'
+> [foo]: http://example.com/  (Optional Title Here)
 
 ## 6、代码
 如果要标记一小段行内代码，你可以用反引号把它包起来
